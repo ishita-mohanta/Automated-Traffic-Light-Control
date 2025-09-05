@@ -7,3 +7,9 @@ By leveraging the FSM model, the transitions between states are precisely define
 The integration of counters allows for flexible control over delay durations, making the system adaptable to real-world traffic conditions. 
 The goal of this project is to enhance traffic management by providing a safe, efficient, and structured light sequence at intersections. 
 This implementation demonstrates the practical use of digital design concepts in solving real-life problems.
+## Features 
+FSM-based design for logical and reliable state transitions.
+Counter integration to control and adjust signal delay timing.
+Safe sequencing of red, yellow, and green lights.
+Adaptability for different intersection requirements.
+Educational value as a practical application of digital design concepts.
