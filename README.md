@@ -9,7 +9,11 @@ The goal of this project is to enhance traffic management by providing a safe, e
 This implementation demonstrates the practical use of digital design concepts in solving real-life problems.
 ## Features 
 FSM-based design for logical and reliable state transitions.
+
 Counter integration to control and adjust signal delay timing.
+
 Safe sequencing of red, yellow, and green lights.
+
 Adaptability for different intersection requirements.
+
 Educational value as a practical application of digital design concepts.
